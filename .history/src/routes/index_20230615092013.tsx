@@ -2,7 +2,7 @@ import { lazy } from "react";
 import { createBrowserRouter } from "react-router-dom";
 
 import { appLinks } from "Utils/constant";
-import { withSuspense } from "../hocs";
+import { withSuspense } from "HOC";
 
 const Welcome = withSuspense(lazy(() => import("Pages/Welcome")));
 

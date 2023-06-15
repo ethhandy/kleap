@@ -11,6 +11,7 @@ export default defineConfig({
 			Assets: path.resolve("./src/assets"),
 			Components: path.resolve("./src/components"),
 			Elements: path.resolve("./src/elements"),
+			HOC: path.resolve("./src/hocs"),
 			Pages: path.resolve("./src/pages"),
 			Routes: path.resolve("./src/routes"),
 			Utils: path.resolve("./src/utils"),

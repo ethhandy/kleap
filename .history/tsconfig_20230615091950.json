@@ -19,6 +19,7 @@
 			"Assets/*": ["./src/assets/*"],
 			"Components/*": ["./src/components/*"],
 			"Elements/*": ["./src/elements/*"],
+			"HOC/*": ["./src/hocs/*"],
 			"Pages/*": ["./src/pages/*"],
 			"Routes/*": ["./src/routes/*"],
 			"Utils/*": ["./src/utils/*"]
